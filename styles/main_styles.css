@@ -60,6 +60,9 @@ body
 	background: #FFFFFF;
 	color: #1e1e27;
 }
+:root{
+	scroll-behavior: smooth;
+}
 div
 {
 	display: block;
